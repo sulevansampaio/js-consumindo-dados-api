@@ -1,16 +1,18 @@
-<p align="center"> <img src="https://imgur.com/KXUnUsg.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
+| :placard: Vitrine.Dev |   https://cursos.alura.com.br/vitrinedev/sulevansampaio  |
+| -------------  | --- |
+| :sparkles: Nome        | **JavaScript - Consumindo e tratando dados de uma API**
+| :label: Tecnologias | html, css, javascript
+| :rocket: URL         | https://github.com/sulevansampaio/js-consumindo-dados-api
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api/task/109387
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https:/github.com/sulevansampaio/js-consumindo-dados-api/blob/master/img/cepInvalido.png#vitrinedev)
+
+<p align="center"> <img src="https://github.com/sulevansampaio/js-consumindo-dados-api/blob/master/img/cepInvalido.png" alt="foto do projeto concluído - cep invalido"> </p>
+
+<p align="center"> <img src="https://github.com/sulevansampaio/js-consumindo-dados-api/blob/master/img/cepValido.png" alt="foto do projeto concluído - cep valido"> </p>
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/js-consumindo-dados-api/blob/aula05/img/Logo.svg" alt="Logo da alura books"> </p>
 <p align="center">Um formulário de cadastro da plataforma AluraBooks, uma livraria on-line que vende livros técnicos. Nesse formulário implementamos o auto preenchimento de informações do endereço através do valor do CEP inserido pelo usuário.</p>
 
-## Tecnologias utilizadas durante o curso
-* Javascript
-
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
-
-## Screenshots
-![Screenshot da tela do formulário do AluraBooks](https://imgur.com/bupnUfx.png)
