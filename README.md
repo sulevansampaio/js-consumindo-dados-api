@@ -2,7 +2,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **JavaScript - Consumindo e tratando dados de uma API**
 | :label: Tecnologias | html, css, javascript
-| :rocket: URL         | https://github.com/sulevansampaio/js-consumindo-dados-api
+| :rocket: URL         | https://sulevansampaio.github.io/js-consumindo-dados-api/
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api/task/109387
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
