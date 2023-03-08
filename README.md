@@ -6,7 +6,7 @@
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api/task/109387
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https:/github.com/sulevansampaio/js-consumindo-dados-api/blob/master/img/cepInvalido.png#vitrinedev)
+![](https://github.com/sulevansampaio/js-consumindo-dados-api/blob/master/img/cepInvalido.png#vitrinedev)
 
 <p align="center"> <img src="https://github.com/sulevansampaio/js-consumindo-dados-api/blob/master/img/cepInvalido.png" alt="foto do projeto concluído - cep invalido"> </p>
 
